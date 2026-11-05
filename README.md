@@ -35,8 +35,7 @@ el botón de reinicio lo vuelve a cero. La barra espaciadora también suma.
 `ContadorApp` guarda el estado, construye los componentes y maneja los eventos.
 
 ## Evidencia
-![Captura](capturas/contador.png.png)
-
+![Captura](contador.png.png)
 ## Fuentes consultadas
 https://flet.dev/
 https://flet.dev/docs/getting-started/installation
